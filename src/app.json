@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "MyMobileApp",
+    "icon": "component/img/icon-camera.png",
+    "version": "1.0.0",
+    "slug": "your-app-slug",
+    "sdkVersion": "21.0.0",
+    "ios": {
+      "bundleIdentifier": "com.Epitech.MyMobileApp"
+    },
+    "android": {
+      "package": "com.Epitech.MyMobileApp"
+    }
+  },
+  "name": "myMobileApp",
+  "displayName": "MyMobileApp"
+}
