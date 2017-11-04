@@ -3,6 +3,8 @@
 matthieu.werth@epitech.eu
 theo.richard@epitech.eu
 
+Nous n'avions pas assisté au cours inhérent au module
+
 Ce projet presente une page de login permettant à un utilisateur de se connecter et d'acceder à une GoogleMap où il pourra créer des points d'interets.
 
 projet réalisé en react-native avec un backend firebase
